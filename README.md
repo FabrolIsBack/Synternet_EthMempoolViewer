@@ -107,6 +107,12 @@ The graph is displayed with the Eth present in the transitions and the counters 
 
 <br><br>
 
+Example with pending transaction
+
+![The graph is displayed with the Eth present in the transitions and the counters to differentiate them based on the amount](Example_images/Example4.png)
+
+<br><br>
+
 Example:
 A transaction of 172 eth is displayed, clicking on the source address shows that they are being delivered to a Binance address: <br>
 
